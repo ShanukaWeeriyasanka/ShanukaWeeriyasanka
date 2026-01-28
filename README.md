@@ -1,33 +1,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Shanuka Weeriyasanka</h1>
-<h3 align="center">Data Science Undergraduate at SLIIT | Analytics & Machine Learning Enthusiast | Data-Driven Problem Solver</h3>
+<!--About Me-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanukaweeriyasanka&label=Profile%20views&color=0e75b6&style=flat" alt="shanukaweeriyasanka" /> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanukaweeriyasanka" alt="shanukaweeriyasanka" /></a> </p>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-<p align="left"> <a href="https://twitter.com/sweeriyasa37581" target="blank"><img src="https://img.shields.io/twitter/follow/sweeriyasa37581?logo=twitter&style=for-the-badge" alt="sweeriyasa37581" /></a> </p>
+- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
 
-- 🔭 I’m currently working on **Data Science & Machine Learning Projects (EDA, ML models, dashboards)**
+<br>
 
-- 🌱 I’m currently learning **Machine Learning, Data Engineering, SQL, Advanced Python, Model Deployment**
-
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, Analytics & AI-driven projects**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning, Model Optimization & Real-World Datasets**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShanukaWeeriyasanka](https://github.com/ShanukaWeeriyasanka)
-
-- 📝 I regularly write articles on [Data Science, Analytics & Machine Learning](Data Science, Analytics & Machine Learning)
-
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, Pandas, NumPy, Visualization**
-
-- 📫 How to reach me **shanukaweeriyasanka2@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/shanuka-weeriyasanka](www.linkedin.com/in/shanuka-weeriyasanka)
-
-- ⚡ Fun fact **I actually enjoy cleaning messy datasets — it’s weirdly satisfying.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
