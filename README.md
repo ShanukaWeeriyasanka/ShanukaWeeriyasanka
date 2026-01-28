@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm Shanuka Weeriyasanka</h1>
 <h3 align="center">Data Science Undergraduate at SLIIT | Analytics & Machine Learning Enthusiast | Data-Driven Problem Solver</h3>
 
@@ -47,3 +49,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanukaweeriyasanka&show_icons=true&locale=en" alt="shanukaweeriyasanka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanukaweeriyasanka&" alt="shanukaweeriyasanka" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
