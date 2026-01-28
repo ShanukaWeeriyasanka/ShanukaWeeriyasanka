@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![ShanukaWeeriyasanka Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -203,15 +203,15 @@
 <div align="center">
   
 <a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="shanukaweeriyasanka2@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://x.com/SWeeriyasa37581" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="SWeeriyasa37581" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/__sha_nuu__" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="__sha_nuu__" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/Kiran1689" target="_blank">
