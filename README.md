@@ -17,7 +17,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://ShanukaWeeriyasanka.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
